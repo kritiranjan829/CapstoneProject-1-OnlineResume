@@ -1,7 +1,8 @@
 CapstoneProject-1-OnlineResume
 Welcome to my first capstone project – an online resume built using only **HTML** as part of my web development journey!
 
-🔗 Live Website: 
+🔗 Live Website: https://capstone-project-1-online-resume-one.vercel.app/
+
 ---
 
 📄 About the Project
